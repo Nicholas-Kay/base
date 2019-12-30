@@ -1,5 +1,14 @@
 {
- "name":[
-    "Simon","Jack", "Tony"
- ]   
+    "list": [
+        {
+            "name": "Jack",
+            "age": 25
+        }, {
+            "name": "Tony",
+            "age": 26
+        }, {
+            "name": "Simon",
+            "age": 27
+        }
+    ]
 }
